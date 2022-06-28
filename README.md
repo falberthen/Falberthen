@@ -2,13 +2,14 @@
 
 I build software professionally since 2007, focusing on learning and improving myself using the best practices to design scalable and testable solutions.
 
-● .NET, C#
-● Angular, VueJS, Typescript / Javascript, JQuery, Bootstrap, HTML5
-● Microsoft SQL Server, Entity Framework Core, Dapper
-● Visual Studio / Code, SQL Management Studio, TFS, GIT
-● Jira, Bitbucket, Azure DevOps with Scrum template
-● Clean architecture / Domain-Driven Design
+- .NET, C#
+- Angular, VueJS, Typescript / Javascript, JQuery, Bootstrap, HTML5
+- Microsoft SQL Server, Entity Framework Core, Dapper
+- Visual Studio / Code, SQL Management Studio, TFS, GIT
+- Jira, Bitbucket, Azure DevOps with Scrum template
+- Clean architecture / Domain-Driven Design
 
+<br>
  <div>
   <a href="https://github.com/falberthen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=falberthen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
