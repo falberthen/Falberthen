@@ -1,13 +1,13 @@
-## Felipe Alberto - Full Stack Developer 
+## Felipe Henrique - Senior Software Engineer 
 
-I am a Full Stack developer building web applications professionally since 2007. Always focusing on the best practices to provide scalable and testable solutions, I believe that software has to be able to well reflect and improve the business processes, as to survive through the constant changes the market demands. 
+I build software professionally since 2007, focusing on learning and improving myself using the best practices to design scalable and testable solutions.
 
-- .NET Framework / Core, C#, ASP.NET MVC / API
-- Angular, VueJS, Typescript / Javascript, JQuery, Bootstrap, HTML5
-- Microsoft SQL Server, Entity Framework Core, Dapper
-- Visual Studio / Code, SQL Management Studio, TFS, GIT
-- Jira, Bitbucket, Azure DevOps with Scrum template
-- Clean architecture / Domain-Driven Design 
+● .NET, C#
+● Angular, VueJS, Typescript / Javascript, JQuery, Bootstrap, HTML5
+● Microsoft SQL Server, Entity Framework Core, Dapper
+● Visual Studio / Code, SQL Management Studio, TFS, GIT
+● Jira, Bitbucket, Azure DevOps with Scrum template
+● Clean architecture / Domain-Driven Design
 
  <div>
   <a href="https://github.com/falberthen">
