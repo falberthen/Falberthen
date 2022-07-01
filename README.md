@@ -1,6 +1,6 @@
 ## Felipe Henrique - Senior Software Engineer 
 
-I build software professionally since 2007, focusing on learning and improving myself using the best practices to design scalable and testable solutions.
+I build software professionally since 2007, focusing on learning and improving myself using the best practices to design scalable and testable solutions. <a href="https://falberthen.github.io/" target="_blank"/>Check out my blog!</a>
 
 - .NET, C#
 - Angular, VueJS, Typescript / Javascript, JQuery, Bootstrap, HTML5
