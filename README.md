@@ -2,7 +2,7 @@
 
 I build software professionally since 2007, focusing on learning and improving myself using the best practices to design scalable and testable solutions. <a href="https://falberthen.github.io/" target="_blank"/>Check out my blog!</a>
 
-- .NET, C#
+- .NET, C#.
 - Angular, VueJS, Typescript / Javascript, JQuery, Bootstrap, HTML5.
 - Microsoft SQL Server, Entity Framework Core, Dapper.
 - Visual Studio / Code, SQL Management Studio, GIT, Docker.
