@@ -1,6 +1,7 @@
 ## Felipe Henrique - Senior Software Engineer 
 
-Professionally building software since 2007, I am a very proactive and passionate software engineer, always aiming to improve processes and ensure standards with clear communication and adherence to create impactful value for companies and customers, supported by best engineering practices and skills I continuously seek to improve.
+Professionally building software since 2007, I am a very proactive and passionate software engineer, constantly improving my skills to ensure high standards, leading by example, and fostering creating impactful value for companies.
+
 <a href="https://falberthen.github.io/" target="_blank"/>Check out my blog!</a>
 
 - .NET, C#, Typescript.
