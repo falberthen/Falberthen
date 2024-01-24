@@ -4,14 +4,17 @@ I have been building professional software for almost two decades, always leadin
 
 <a href="https://falberthen.github.io/" target="_blank"/>Check out my blog!</a>
 
+<br/>
+
 MAIN TECHNICAL STACK
--.NET, C#, Javascript, Typescript. 
+- .NET, C#, Javascript, Typescript. 
 -  Visual Studio / VS Code.
 -  Angular, VueJS, Bootstrap, CSS, HTML5. 
 -  Microsoft SQL Server, CosmosDb, EF Core.
--  Jira, Bitbucket, Miro, Microsoft Azure / DevOps.
--  Clean architecture / Domain-Driven Design / SOLID.
--  GIT, Docker.
+-  Microsoft Azure / DevOps, Docker.
+-  Jira, Bitbucket, Miro, GIT.
+-  Clean architecture / DDD / SOLID.
+
 
 <br>
  <div>
