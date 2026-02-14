@@ -1,19 +1,23 @@
 ## Felipe Henrique - Senior Software Engineer | Tech Lead
 
-I have been building professional software for almost two decades, always leading by example. I am a very proactive and passionate software engineer, constantly improving my skills to deliver high-quality solutions that create impactful value for companies and clients.
+I’m a software engineer with nearly 20 years of experience building full-stack solutions. Focusing on .NET and modern JavaScript frameworks, I design reliable, maintainable, and scalable systems, always emphasizing clean code, automation, and sound architecture. 
+
+Passionate about technical excellence and continuous improvement, I strive to enhance the developer experience through modern tools, best practices, and well-defined processes — delivering robust solutions that create meaningful value for companies and clients.
 
 <a href="https://falberthen.github.io/" target="_blank"/>Check out my blog!</a>
 
 <br/>
 
 MAIN TECHNICAL STACK
-- .NET, C#, Javascript, Typescript. 
--  Visual Studio / VS Code.
--  Angular, VueJS, Bootstrap, CSS, HTML5. 
--  Microsoft SQL Server, CosmosDb, EF Core.
--  Microsoft Azure / DevOps, Docker.
--  Jira, Bitbucket, Miro, GIT.
--  Clean architecture / DDD / SOLID.
+•  .NET Core, C#, Javascript, Typescript. 
+•  Angular, VueJS, Bootstrap, CSS, HTML5.  
+•  Entity Framework Core.  
+•  SQL Server, PostgreSQL, MySQL, MongoDB.  
+•  Visual Studio / Code, Git.  
+•  Microsoft Azure and DevOps, AWS.  
+•  GIT, Azure DevOps, Miro. 
+•  Unit / Integration testing, xUnit, NSubstitute.  
+•  Clean architecture / DDD / SOLID.
 
 <br>
 <div style="display: inline_block"><br>
