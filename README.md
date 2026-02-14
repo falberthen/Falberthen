@@ -9,16 +9,15 @@ Passionate about technical excellence and continuous improvement, I strive to en
 <br/>
 
 MAIN TECHNICAL STACK:
-
-•  .NET Core, C#, Javascript, Typescript. 
-•  Angular, VueJS, Bootstrap, CSS, HTML5.  
-•  Entity Framework Core.  
-•  SQL Server, PostgreSQL, MySQL, MongoDB.  
-•  Visual Studio / Code, Git.  
-•  Microsoft Azure and DevOps, AWS.  
-•  GIT, Azure DevOps, Miro. 
-•  Unit / Integration testing, xUnit, NSubstitute.  
-•  Clean architecture / DDD / SOLID.
+-  .NET Core, C#, Javascript, Typescript. 
+-  Angular, VueJS, Bootstrap, CSS, HTML5.  
+-  Entity Framework Core.  
+-  SQL Server, PostgreSQL, MySQL, MongoDB.  
+-  Visual Studio / Code, Git.  
+-  Microsoft Azure and DevOps, AWS.  
+-  GIT, Azure DevOps, Miro. 
+-  Unit / Integration testing, xUnit, NSubstitute.  
+-  Clean architecture / DDD / SOLID.
 
 <br>
 <div style="display: inline_block"><br>
