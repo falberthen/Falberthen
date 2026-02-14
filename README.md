@@ -8,7 +8,8 @@ Passionate about technical excellence and continuous improvement, I strive to en
 
 <br/>
 
-MAIN TECHNICAL STACK
+MAIN TECHNICAL STACK:
+
 •  .NET Core, C#, Javascript, Typescript. 
 •  Angular, VueJS, Bootstrap, CSS, HTML5.  
 •  Entity Framework Core.  
