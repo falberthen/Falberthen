@@ -8,8 +8,8 @@ MAIN BLOG POSTS
 - <a href="https://falberthen.github.io/posts/ecommerceddd-pt1/" target="_blank"/>EcommerceDDD - Hands-on DDD and Event Sourcing [1/6]</a>
 - <a href="https://falberthen.github.io/posts/from-agile-to-fragile/" target="_blank"/>From Agile to Fragile</a>
 - <a href="https://falberthen.github.io/posts/developer-experience/" target="_blank"/>DX: Developer Experience as important as UX</a>
-- <a href="https://falberthen.github.io/posts/solid101-pt1/" target="_blank"/>SOLID 101</a>
 - <a href="https://falberthen.github.io/posts/outboxpattern/" target="_blank"/>Consistent message delivery with Transactional Outbox Pattern</a>
+- <a href="https://falberthen.github.io/posts/solid101-pt1/" target="_blank"/>SOLID 101</a>
 
 <br/>
 
