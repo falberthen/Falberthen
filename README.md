@@ -1,4 +1,4 @@
-## Felipe Henrique - Senior Software Engineer | Tech Lead
+## Felipe Henrique - Senior Software Engineer
 
 I'm a seasoned full-stack software engineer building reliable, maintainable systems in .NET and modern JavaScript frameworks. I design scalable architectures, write clean code, and invest in developer experience. I care deeply about domain understanding — and I believe that good processes and clear communication are what turn solid technical decisions into solutions that actually last.
 
