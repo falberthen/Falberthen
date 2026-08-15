@@ -8,7 +8,7 @@ I design reliable, maintainable, and scalable systems, emphasizing clean code, a
 
 Some of my blog posts:
 - <a href="https://falberthen.github.io/posts/ecommerceddd-pt1/" target="_blank"/>EcommerceDDD - Hands-on DDD and Event Sourcing [1/6]</a>
-- <a href="https://falberthen.github.io/posts/jose101/" target="_blank"/>JOSE 101 - A Practical Guide to JWT, JWA, JWS and JWE in .NET</a>
+- <a href="https://falberthen.github.io/posts/jose101-pt1/" target="_blank"/>JOSE 101 - A Practical Guide to JWT, JWA, JWS and JWE in .NET</a>
 - <a href="https://falberthen.github.io/posts/solid101/" target="_blank"/>SOLID 101 - The Five Principles Every Developer Should Know</a>
 - <a href="https://falberthen.github.io/posts/reclaiming-agile/" target="_blank"/>Reclaiming Agile</a>
 - <a href="https://falberthen.github.io/posts/developer-experience/" target="_blank"/>DX: Developer Experience as important as UX</a>
